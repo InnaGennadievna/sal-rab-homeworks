@@ -11,7 +11,7 @@ function parseProducts(json) {
     return products;
 }
 
-// Напишите функцию renderProductsCards(json)
+// Напишите функцию renderProductsCards(json) 
 // Аргументом функции является JSON
 // Выполните функцию clearProducts - она уже написана в коде, просто вызовите ее, аргументы не требуются
 // Выполните функцию parseProducts, передав в неё json - аргумент функции и запишите результат в переменную products
